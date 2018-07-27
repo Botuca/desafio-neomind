@@ -20,7 +20,7 @@
 
 8º - Procure a pasta baixada do repositório desafio-neomind e clique em "Finish".
 
-Com isso, na aba de "Project Explorer", a pasta estará carregada. Com isso, expanda-a até encontrar a pasta "src" e expanda-a. Encontre o pacote "default package" e expande-o. Deverá aparecer o arquivo Clock.java e Main.java. Dê dois cliques em ambos para abrí-los no editor de texto do Eclipse e clique em Run. No console do Eclipse, aparecerá o código sendo executado.
+.Com isso, na aba de "Project Explorer", a pasta estará carregada. Com isso, expanda-a até encontrar a pasta "src" e expanda-a. Encontre o pacote "default package" e expande-o. Deverá aparecer o arquivo Clock.java e Main.java. Dê dois cliques em ambos para abrí-los no editor de texto do Eclipse e clique em Run. No console do Eclipse, aparecerá o código sendo executado.
 
 ## Sobre a classe Main:
 .Dentro dessa classe, está a parte executável do desafio, é ela quem vai pedir as informações necessárias ao usuário para depois enviar
