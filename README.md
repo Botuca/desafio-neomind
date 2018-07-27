@@ -1,5 +1,18 @@
 # desafio-neomind
 
+## Como executar
+
+.Vou mencionar UM DOS jeitos que eu aprendi para executar o código, existem outros meios, use o que achar mais confortável. Utilizei a IDE Eclipse para a criação do código.
+1º - Baixe o repositório desafio-neomid.
+2º - Caso tenha baixado o arquivo compactado, descompacte-o em sua pasta de preferência.
+3º - Abre o Eclipse.
+4º - Clique em "File" e em seguida em "Import...".
+5º - Em "Select an import source:", escolha a pasta escrito "General", em seguida selecione "Existing Projects into Workspace".
+6º - Clique em "Next".
+7º - Selecione a opção "Select root directory:", em seguida clique em "Browse..." na opção selecionada.
+8º - Procure a pasta baixada do repositório desafio-neomind e clique em "Finish".
+
+Com isso, na aba de "Project Explorer", a pasta estará carregada. Com isso, expanda-a até encontrar a pasta "src" e expanda-a. Encontre o pacote "default package" e expande-o. Deverá aparecer o arquivo Clock.java e Main.java. Dê dois cliques em ambos para abrí-los no editor de texto do Eclipse e clique em Run. No console do Eclipse, aparecerá o código sendo executado.
 
 ## Sobre a classe Main:
 .Dentro dessa classe, está a parte executável do desafio, é ela quem vai pedir as informações necessárias ao usuário para depois enviar
