@@ -4,7 +4,7 @@
 
 .Vou mencionar UM DOS jeitos que eu aprendi para executar o código, existem outros meios, use o que achar mais confortável. Utilizei a IDE Eclipse para a criação do código.
 
-1º - Baixe o repositório desafio-neomid.
+1º - Baixe o repositório desafio-neomind.
 
 2º - Caso tenha baixado o arquivo compactado, descompacte-o em sua pasta de preferência.
 
